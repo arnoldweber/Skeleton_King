@@ -36,4 +36,4 @@ I'm a terrible programmer and a worse modeller, so this couldn't possibly have b
 - SanyaBane and ShutnikMods, whose guides helped me create the original version of the mod
 - Ohh_Noes, who fixed the model on the previous version
 - TheZett, whose post on [this thread](https://www.reddit.com/r/DotA2/comments/8yymx9/item_icons_mods_dont_work_since_one_of_latest/) finally clued me in how the wonky new png to vtex_c conversion works
-- Arktomys, who reminded me to get back to work on this
+- Arktomys, who reminded me to get back to work on this 
